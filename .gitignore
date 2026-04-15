@@ -5,3 +5,6 @@
 *.fls
 *.log
 *.synctex*
+res/example_solution.pdf
+res/style-reference.pdf
+res/requirements.pdf
